@@ -17,8 +17,7 @@ export default function Home() {
       
       <footer className="border-t py-6 bg-white dark:bg-gray-800">
         <div className="container mx-auto px-4 text-center text-sm text-muted-foreground">
-          <p>© {new Date().getFullYear()} Social Media Content Generator. All rights reserved.</p>
-          <p className="mt-1">Powered by Next.js, Tailwind CSS, and OpenAI.</p>
+          <p>© {new Date().getFullYear()} Xaneur. All rights reserved.</p>
         </div>
       </footer>
     </div>
